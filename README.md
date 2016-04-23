@@ -1,2 +1,2 @@
-# HackerRank-Problems
+# HackerRank-Files
 HackerRank Solutions
